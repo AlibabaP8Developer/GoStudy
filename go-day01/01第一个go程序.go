@@ -5,6 +5,8 @@ package main
 import "fmt"
 
 /*
+go语言官网
+https://golang.google.cn/dl/
 块注释
 可以注释多行
 */
